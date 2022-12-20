@@ -12,6 +12,12 @@ Determinar el tipo de divisores que se debe ocupar en los circuitos mixtos para 
 
 ### 2. MARCO TEORICO
 
+![](https://github.com/melaniegutierrez/INFORME-TAREA-4/blob/main/M1.png)
+
+![](https://github.com/melaniegutierrez/INFORME-TAREA-4/blob/main/M2.png)
+
+![](https://github.com/melaniegutierrez/INFORME-TAREA-4/blob/main/M3.png)
+
 ### 3. EXPLICACION O RESOLUCION DE PROBLEMAS
 
 ### 4. VIDEO
